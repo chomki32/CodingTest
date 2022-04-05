@@ -12,6 +12,7 @@
 		0141784E27FC032E004CF832 /* 멀쩡한사각형.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0141784D27FC032E004CF832 /* 멀쩡한사각형.swift */; };
 		0141785027FC1E49004CF832 /* 기능개발.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0141784F27FC1E49004CF832 /* 기능개발.swift */; };
 		0141785227FC3C76004CF832 /* 타겟넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0141785127FC3C76004CF832 /* 타겟넘버.swift */; };
+		C8B60AA127FC7DBB009F6E68 /* 짝지어제거하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B60AA027FC7DBB009F6E68 /* 짝지어제거하기.swift */; };
 		C8BBC20F27FB4D7D00CF86BE /* 오픈채팅방.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BBC20E27FB4D7D00CF86BE /* 오픈채팅방.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		0141784D27FC032E004CF832 /* 멀쩡한사각형.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "멀쩡한사각형.swift"; sourceTree = "<group>"; };
 		0141784F27FC1E49004CF832 /* 기능개발.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "기능개발.swift"; sourceTree = "<group>"; };
 		0141785127FC3C76004CF832 /* 타겟넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟넘버.swift"; sourceTree = "<group>"; };
+		C8B60AA027FC7DBB009F6E68 /* 짝지어제거하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝지어제거하기.swift"; sourceTree = "<group>"; };
 		C8BBC20E27FB4D7D00CF86BE /* 오픈채팅방.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "오픈채팅방.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,6 +91,7 @@
 				0141784D27FC032E004CF832 /* 멀쩡한사각형.swift */,
 				0141784F27FC1E49004CF832 /* 기능개발.swift */,
 				0141785127FC3C76004CF832 /* 타겟넘버.swift */,
+				C8B60AA027FC7DBB009F6E68 /* 짝지어제거하기.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8B60AA127FC7DBB009F6E68 /* 짝지어제거하기.swift in Sources */,
 				0141784E27FC032E004CF832 /* 멀쩡한사각형.swift in Sources */,
 				C8BBC20F27FB4D7D00CF86BE /* 오픈채팅방.swift in Sources */,
 				0141785027FC1E49004CF832 /* 기능개발.swift in Sources */,
